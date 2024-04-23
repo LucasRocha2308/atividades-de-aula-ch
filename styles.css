@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 90vh;
+}
+
+div {
+  background-color: rgb(213, 213, 213);
+  width: 500px;
+  justify-content: center;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+
+h1 {
+  color: red;
+}
+
+li {
+  text-decoration: none;
+}
